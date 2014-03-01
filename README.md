@@ -2,9 +2,9 @@ vagrant configuration for software development
 =======
 
 ##basic_java_dev 
- -  It is basic basic configuration for java deleopment
+ -  It is basic basic configuration for java development
  -  Provider is Virtual Box 
- -  For provisioning is used puppet
+ -  For provisioning is used Puppet
  -  The guest OS is Fedora 20 x64 with lightweight Mate desktop 
  -  Provisioning configuration has OpenJdk 1.7.x, git, maven 3.1x, intellij 13. 
 
